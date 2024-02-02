@@ -1,7 +1,7 @@
-Drumm created with html and css
+Drumm created with html, css and JS
 
-For playng drumm using the link:
+For playng drumm using the link: https://leonardo-a-pacheco.github.io/bateria-JS/
 
-or downloading and execute on your browser
+or downloading and execute in your browser
 
 ...
